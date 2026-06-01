@@ -18,3 +18,5 @@ neutralino.d.ts
 *.exe
 
 Data/
+
+.env
